@@ -1,0 +1,40 @@
+.header{
+    background: #2e3338;
+}
+.liens{
+    margin: 30px 0 0 20px;
+    
+}
+a{
+    text-decoration: none;
+    margin: 20px; 
+    font-size: x-large;
+}
+.flex{
+    display: flex;
+}
+.header h1{
+    color: white;
+    margin: 20px;
+}
+.profil{
+    height: 300px;
+    background: #e6e9ed;
+    justify-content: space-between;
+}
+img{
+    height: 200px;
+    border-radius: 50%;
+    margin: 20px;
+}
+figcaption{
+    text-align: center;
+    font-weight: bolder;
+    font-size: x-large;
+}
+.profil h1{
+    margin: 50px;
+}
+.col-10 div{
+    margin: 20px;
+}
