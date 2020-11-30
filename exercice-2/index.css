@@ -1,0 +1,19 @@
+.yellow{
+    background: yellow;
+}
+.blue{
+    background: blue;
+}
+.red{
+    background: red;
+}
+.green{
+    background: green;
+}
+.gris{
+    background: grey;
+}
+.row div div {
+    height: 75px;
+    margin: 10px 0;
+}
